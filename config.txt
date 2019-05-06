@@ -1,0 +1,6 @@
+owner=413660639668731914
+prefix=qRy
+game=#Riyderz | qRy
+stayinchannel=true
+songinstatus=false
+token=NTc0ODY4MjgxMTg2NTgyNTM4.XM_qCw.twmujf6nrCmXmlhsTyZAbPmYVMY
